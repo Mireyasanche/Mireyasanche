@@ -1,4 +1,4 @@
-<img width="100%"  src="https://acegif.com/wp-content/uploads/2021/01/bienvnds-m.gif" />
+<img width="100%"  src="./images/bienvenidos.gif" />
 <h1 align="center"> <p> ¡Hola a todos! , soy Mireya 🙂 </p> </h1>
 
 ### Soy estudiante de primer curso de DAM 👩🏻‍💻📱 ([Desarrollo de Aplicaciones Multiplataforma][website]) en el [IES Luis Vives 🏫 .][website1]
@@ -7,7 +7,7 @@
 
 Mi interés por la programación surgió, hará un par de años, a partir de uno de mis referentes principales, mi hermano mayor 🙎🏻‍♂️ . Él es estudió algo que a pesar de no estar totalmente relacionado con lo que le apasiona y a lo que se dedica a día de hoy, le dio una vía para conseguirlo, el ***desarrollo de aplicaciones móviles*** 📱 en ***Swift***. Desde que comenzó a mostrarme su motivación por lo que hacía despertó en mi una gran curiosidad y empecé a investigar un poco por cuenta propia y a sumergirme cada vez más en este mundillo 💻 .
 
-<img align="right" src="./images/octogato.png" width=200 />
+<img align="right" src="./images/octocat.png" width=200 />
 
 Es por ello por lo que, cuando por fin tuve la oportunidad de elegir por donde continuarían mis estudios 👩🏻‍🎓 intenté, en la medida de lo posible, seguir los pasos de mi hermano, y no cerrarme a sólo un posible futuro profesional. Es aquí cuando comencé a estudiar la carrera de [Ingeniería Telemática][website2], la cual después de investigar por varios meses parecía ser una de las mejores decisiones en el momento.
 
@@ -51,4 +51,4 @@ En mi perfil encontrarás de principio a fin el desarrollo de mis estudios. Tant
   
   
  <h1 align="center"> <p> 👋🏻  ¡Hasta pronto! 👋🏻 </p> </h1>
- <img width="100%"  src="https://acegif.com/wp-content/gifs/handshake-9.gif" />
+ <img width="100%"  src="./images/hastaPronto.gif" />
