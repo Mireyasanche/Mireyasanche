@@ -5,7 +5,7 @@
 
 <h2 align="center"> Un poco sobre mi historia 📖 :</h2>
 
-Mi interés por la programación surgió, hará un par de años, a partir de uno de mis referentes principales, mi hermano mayor 🙎🏻‍♂️ . Él es estudió algo que a pesar de no estar totalmente relacionado con lo que le apasiona y a lo que se dedica a día de hoy, le dio una vía para conseguirlo, el ***desarrollo de aplicaciones móviles*** 📱 en ***Swift***. Desde que comenzó a mostrarme su motivación por lo que hacía despertó en mi una gran curiosidad y empecé a investigar un poco por cuenta propia y a sumergirme cada vez más en este mundillo 💻 .
+Mi interés por la programación surgió, hará un par de años, a partir de uno de mis referentes principales, mi hermano mayor 🙎🏻‍♂️ . Él estudió algo que, a pesar de no estar totalmente relacionado con lo que le apasiona, y a lo que se dedica a día de hoy, le dio una vía para conseguirlo, el ***desarrollo de aplicaciones móviles*** 📱 en ***Swift***. Desde que comenzó a mostrarme su motivación por lo que hacía despertó en mi una gran curiosidad y empecé a investigar un poco por cuenta propia y a sumergirme cada vez más en este mundillo 💻 .
 
 <img align="right" src="./images/octocat.png" width=200 />
 
