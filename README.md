@@ -17,7 +17,7 @@ Según fue trascurriendo el primer curso, pensaba cada día en lo que hubiese si
 
 A parte de la programación, entre otros de mis intereses se encuentra la pintura 👩🏻‍🎨 , escuchar música a todas horas 🎶 , ver todo tipo de películas y series 🎥 , e incluso muchas veces volverlas a ver más de una vez, dormir todo el día 💤 , me hace muy feliz pasar tiempo con la gente a la que quiero y me encanta probar todo tipo de comidas diferentes 🌎 🫕 .
 
-En mi perfil encontrarás de principio a fin el desarrollo de mis estudios. Tanto mis primeras pruebas personales, como trabajaos individuales y en grupo propuestos por mis profesores.
+En mi perfil encontrarás de principio a fin el desarrollo de mis estudios. Tanto mis primeras pruebas personales, como trabajos individuales y en grupo propuestos por mis profesores.
 
 
 > #### Actualmente estoy aprendiendo los siguientes lenguajes de programación:
@@ -26,7 +26,7 @@ En mi perfil encontrarás de principio a fin el desarrollo de mis estudios. Tant
 <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> &nbsp;&nbsp; 
 <img width="50px" src="https://user-images.githubusercontent.com/90842732/139321523-7c6d407c-86d3-4465-9d99-339bd971f32f.png" /> &nbsp;&nbsp; 
 <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> &nbsp;&nbsp;
-<img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> &nbsp;&nbsp;
+
 
 
 > #### Y algunas de las tecnologías que estoy aprendiendo a utilizar son:
@@ -35,6 +35,7 @@ En mi perfil encontrarás de principio a fin el desarrollo de mis estudios. Tant
 <img width="50px" src="https://pluspng.com/img-png/nodejs-logo-png-node-js-development-296.png"/>&nbsp;&nbsp;
 <img width="50px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"  />&nbsp;&nbsp;
 <img width="50px" src= "https://materiageek.com/wp-content/uploads/2020/10/GitKraken-7.4.0-Descargar-gratis.png" />&nbsp;&nbsp;
+<img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> &nbsp;&nbsp;
 
 ## <h2 align="center"> Contacto 📫 : 
 > - <mireyasancz02@gmail.com>
