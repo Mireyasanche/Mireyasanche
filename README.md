@@ -1,21 +1,20 @@
 <img width="100%"  src="./images/bienvenidos.gif" />
-<h1 align="center"> <p> ¡Hola a todos! , soy Mireya 🙂 </p> </h1>
+<h1 align="center"> <p> ¡Hola a todos! , soy Mireya . </p> </h1>
 
-### Soy estudiante de primer curso de DAM 👩🏻‍💻📱 ([Desarrollo de Aplicaciones Multiplataforma][website]) en el [IES Luis Vives 🏫 .][website1]
+### Soy estudiante de segundo curso de DAM 👩🏻‍💻 ([Desarrollo de Aplicaciones Multiplataforma][website3]) en el [IES Luis Vives 🏫 .][website4]
 
-<h2 align="center"> Un poco sobre mi historia 📖 :</h2>
+<h2 align="center"> 📖 Un poco sobre mi historia: </h2>
 
-Mi interés por la programación surgió, hará un par de años, a partir de uno de mis referentes principales, mi hermano mayor 🙎🏻‍♂️ . Él estudió algo que, a pesar de no estar totalmente relacionado con lo que le apasiona, y a lo que se dedica a día de hoy, le dio una vía para conseguirlo, el ***desarrollo de aplicaciones móviles*** 📱 en ***Swift***. Desde que comenzó a mostrarme su motivación por lo que hacía despertó en mi una gran curiosidad y empecé a investigar un poco por cuenta propia y a sumergirme cada vez más en este mundillo 💻 .
 
 <img align="right" src="./images/octocat.png" width=200 />
 
-Es por ello por lo que, cuando por fin tuve la oportunidad de elegir por donde continuarían mis estudios 👩🏻‍🎓 intenté, en la medida de lo posible, seguir los pasos de mi hermano, y no cerrarme a sólo un posible futuro profesional. Es aquí cuando comencé a estudiar la carrera de [Ingeniería Telemática][website2], la cual después de investigar por varios meses parecía ser una de las mejores decisiones en el momento.
+Hace unos años comencé el primer año de [Ingeniería Telemática][website1] en la [UC3M][website2] y, según fue trascurriendo el primer curso, me fui interesando cada vez más en el terreno de la programación. 
 
-Según fue trascurriendo el primer curso, pensaba cada día en lo que hubiese sido el haberme adentrado íntegramente en el terreno de la programación. Es aquí cuando comencé a plantearme cambiar mi camino, y por lo tanto mi futuro profesional. Pese que al principio de este nuevo cambio estaba un tanto dudosa y temerosa de si sería lo mío, a día de hoy puedo estar totalmente segura de decir que es mi principal interés profesional.
+Es aquí cuando comencé a plantearme cambiar mi camino, y con ello mi futuro profesional. Inicie el grado superior de [Desarrollo de Aplicaciones Multiplataforma][website3] en el [IES Luis Vives][website4]. Pese que al principio de este nuevo cambio estaba un tanto dudosa, a día de hoy puedo estar totalmente segura de decir que es mi principal interés profesional.
 
-<h2 align="center"> Mis hobbies 👀 : </h2>
+Estoy interesada en invetigar y aprender sobre nuevas tecnologías y por lo tanto los recursos que estas me pueden ofrecer.
 
-A parte de la programación, entre otros de mis intereses se encuentra la pintura 👩🏻‍🎨 , escuchar música a todas horas 🎶 , ver todo tipo de películas y series 🎥 , e incluso muchas veces volverlas a ver más de una vez, dormir todo el día 💤 , me hace muy feliz pasar tiempo con la gente a la que quiero y me encanta probar todo tipo de comidas diferentes 🌎 🫕 .
+<h2 align="center"> 👀 Sobre mi conocimientos: </h2>
 
 En mi perfil encontrarás de principio a fin el desarrollo de mis estudios. Tanto mis primeras pruebas personales, como trabajos individuales y en grupo propuestos por mis profesores.
 
@@ -37,7 +36,7 @@ En mi perfil encontrarás de principio a fin el desarrollo de mis estudios. Tant
 <img width="50px" src= "https://materiageek.com/wp-content/uploads/2020/10/GitKraken-7.4.0-Descargar-gratis.png" />&nbsp;&nbsp;
 <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> &nbsp;&nbsp;
 
-## <h2 align="center"> Contacto 📫 : 
+## <h2 align="center"> 📫 Contacto: 
 > - <mireyasancz02@gmail.com>
 >
 > - <mireya.sanchez@alumno.iesluisvives.org>
@@ -46,9 +45,11 @@ En mi perfil encontrarás de principio a fin el desarrollo de mis estudios. Tant
 
 
 <!-- Enlaces -->
-[website]:https://abamobile.com/web/apps-multiplataforma-que-son-y-caracteristicas/#:~:text=Las%20aplicaciones%20multiplataforma%20son%20apps,independientemente%20de%20su%20sistema%20operativo.
-[website1]: http://iesluisvives.es/
-[website2]:https://www.uc3m.es/grado/telematica
+[website1]:https://www.uc3m.es/grado/telematica
+[website2]:https://www.uc3m.es/inicio
+[website3]:https://www.iesluisvives.es/default.aspx?tabid=43636&rowid=1687109,87592
+[website4]: http://iesluisvives.es/
+
   
   
  <h1 align="center"> <p> 👋🏻  ¡Hasta pronto! 👋🏻 </p> </h1>
