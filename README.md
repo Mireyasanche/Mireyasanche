@@ -1,9 +1,9 @@
 <img width="100%"  src="./images/bienvenidos.gif" />
 <h1 align="center"> <p> ¡Hola a todos! ,  soy Mireya . </p> </h1>
 
-### Soy estudiante de segundo curso de DAM 👩🏻‍💻 ([Desarrollo de Aplicaciones Multiplataforma][website3]) en el [IES Luis Vives 🏫 .][website4]
+### Soy estudiante de segundo curso de DAM 💻 ([Desarrollo de Aplicaciones Multiplataforma][website3]) en el [IES Luis Vives.][website4]
 
-<h2 align="center"> 📖 Un poco sobre mi historia: </h2>
+<h2 align="center"> Un poco sobre mi historia: </h2>
 
 
 <img align="right" src="./images/octocat.png" width=200 />
@@ -11,11 +11,12 @@
 Hace unos años comencé el primer año de [Ingeniería Telemática][website1] en la [UC3M][website2] y, según fue trascurriendo el primer curso, me fui interesando cada vez más en el terreno de la programación. 
 
 Es aquí cuando comencé a plantearme cambiar mi camino, y con ello mi futuro profesional. Inicié el grado superior de [Desarrollo de Aplicaciones Multiplataforma][website3] en el [IES Luis Vives][website4]. 
-Pese que al principio de este nuevo cambio estaba un tanto dudosa, a día de hoy puedo estar totalmente segura de decir que es mi principal interés profesional.
+
+Pese a que al principio de este nuevo cambio estaba un tanto dudosa, a día de hoy puedo estar totalmente segura de decir que es mi principal interés profesional.
 
 Estoy interesada en invetigar y aprender sobre nuevas tecnologías y por lo tanto los recursos que estas me pueden ofrecer.
 
-<h2 align="center"> 👀 Sobre mi conocimientos: </h2>
+<h2 align="center"> 👩🏻‍💻 Sobre mi conocimientos: </h2>
 
 En mi perfil encontrarás de principio a fin el desarrollo de mis estudios. Tanto mis primeras pruebas personales, como trabajos individuales y en grupo propuestos por mis profesores.
 
