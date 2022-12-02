@@ -1,59 +1,59 @@
 <img width="100%"  src="./images/bienvenidos.gif" />
-<h1 align="center"> <p> ¡Hola a todos! ,  soy Mireya . </p> </h1>
+<h1 align="center"> <p> ¡Hola a todos! ,  soy Mireya. </p> </h1>
 
-### Soy estudiante de segundo curso de DAM 💻 ([Desarrollo de Aplicaciones Multiplataforma][website3]) en el [IES Luis Vives.][website4]
+### Soy estudiante de segundo curso de DAM ([Desarrollo de Aplicaciones Multiplataforma][website3]) en el [IES Luis Vives.][website4]
 
-<h2 align="center"> Un poco sobre mi historia: </h2>
-
-
-<img align="right" src="./images/octocat.png" width=200 />
-
-Hace unos años comencé el primer año de [Ingeniería Telemática][website1] en la [UC3M][website2] y, según fue trascurriendo el primer curso, me fui interesando cada vez más en el terreno de la programación. 
-
-Es aquí cuando comencé a plantearme cambiar mi camino, y con ello mi futuro profesional. Inicié el grado superior de [Desarrollo de Aplicaciones Multiplataforma][website3] en el [IES Luis Vives][website4]. 
-
-Pese a que al principio de este nuevo cambio estaba un tanto dudosa, a día de hoy puedo estar totalmente segura de decir que es mi principal interés profesional.
-
-Estoy interesada en invetigar y aprender sobre nuevas tecnologías y por lo tanto los recursos que estas me pueden ofrecer.
-
-<h2 align="center"> 👩🏻‍💻 Sobre mi conocimientos: </h2>
+<h2 align="center"> Conocimientos: </h2>
 
 En mi perfil encontrarás de principio a fin el desarrollo de mis estudios. Tanto mis primeras pruebas personales, como trabajos individuales y en grupo propuestos por mis profesores.
 
 
 
-> #### Actualmente estoy aprendiendo los siguientes lenguajes de programación:
+<h2 align="center"> 《  Tecnologías & Librerías 》</h2>
 
+<div align="center">
+<img width="50px" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" /> &nbsp; 
+<img width="50px" title="npm" src="https://www.pngrepo.com/png/331509/512/npm.png" /> &nbsp;
+<img width="50px" title="SQLite" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" /> &nbsp;
+<img width="50px" title="H2" src="https://dbdb.io/media/logos/h2-logo.svg" /> &nbsp;
+<img width="50px" title="MongoDB" src="https://www.axonius.com/hubfs/mongodb_adapter.png" /> &nbsp;
+<img width="50px" title="JUnit 5" src="https://camo.githubusercontent.com/abbaedce4b226ea68b0fd43521472b0b146d5ed57956116f69752f43e7ddd7d8/68747470733a2f2f6a756e69742e6f72672f6a756e6974352f6173736574732f696d672f6a756e6974352d6c6f676f2e706e67" /> &nbsp; 
+<img width="50px" title="Mockito" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Mockito_Junit_Tutorial.png" /> &nbsp; 
+<img width="50px" title="Maven" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" /> &nbsp;
+<img width="50px" title="Gradle" src="https://static-00.iconduck.com/assets.00/gradle-icon-512x376-6gp77rri.png" /> &nbsp; 
+<img width="50px" title="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" /> &nbsp; 
+<img width="50px" title="Java Swing" src="https://raw.githubusercontent.com/github/explore/837a7c42714572f343238a9110f2aa7ccebf9ea5/topics/swing/swing.png" /> &nbsp; 
+  <br>
+<img width="50px" title="Java FX" src="https://static.wikia.nocookie.net/jfx/images/0/00/JavaFXIsland400x200.png/revision/latest?cb=20070917150529" /> &nbsp; 
+<img width="50px" title="Hibernate JPA" src="https://cdn.freebiesupply.com/logos/large/2x/hibernate-logo-png-transparent.png" /> &nbsp; 
+<img width="50px" title="Exposed" src="https://i.imgur.com/5ImTuoT.png" /> &nbsp; 
+<img width="50px" title="Spring Data JPA" src="https://cdn-images-1.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png" /> &nbsp;
+<img width="50px" title="Dagger" src="https://cdn-icons-png.flaticon.com/512/1067/1067718.png" /> &nbsp;
+<img width="50px" title="Koin" src="https://insert-koin.io/img/koin_new_logo.png" /> &nbsp;
+<img width="50px" title="Project Lombok" src="https://avatars.githubusercontent.com/u/45949248?s=280&v=4" /> &nbsp;
+<img width="50px" title="Firebase" src="https://4.bp.blogspot.com/-Fxo_qnGJBj0/WRoDPNdlEII/AAAAAAAABF0/1mSHmv5gleQaCsHKEDgTB3DbNghjCXvZACLcB/s1600/logo_firebase_1920px_clr.png" /> &nbsp;
+</div> 
+<br>
 
-> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> &nbsp;&nbsp;
-<img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> &nbsp;&nbsp; 
-<img width="50px" src="https://user-images.githubusercontent.com/90842732/139321523-7c6d407c-86d3-4465-9d99-339bd971f32f.png" /> &nbsp;&nbsp; 
-<img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> &nbsp;&nbsp;
-<img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp;&nbsp;
-<img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> &nbsp;&nbsp;
-<img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /> &nbsp;&nbsp;
-<img width="50px" src="https://cdn-icons-png.flaticon.com/512/1081/1081840.png" /> &nbsp;&nbsp;
+<h2 align="center"> 《  Manejo de Entornos 》</h2>
 
-
-
-
-> #### Y algunas de las tecnologías que estoy aprendiendo a utilizar son:
-
-
-> <img width="50px" src="https://pluspng.com/img-png/nodejs-logo-png-node-js-development-296.png"/>&nbsp;&nbsp;
-<img width="50px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"  />&nbsp;&nbsp;
-<img width="50px" src= "https://materiageek.com/wp-content/uploads/2020/10/GitKraken-7.4.0-Descargar-gratis.png" />&nbsp;&nbsp;
-<img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> &nbsp;&nbsp;
-<img width="50px" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" /> &nbsp;&nbsp;
-<img width="50px" src="https://junit.org/junit4/images/junit5-banner.png" /> &nbsp;&nbsp;
-<img width="50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" /> &nbsp;&nbsp;
-<img width="50px" src="https://static-00.iconduck.com/assets.00/gradle-icon-512x376-6gp77rri.png" /> &nbsp;&nbsp;
-<img width="50px" src="https://sdtimes.com/wp-content/uploads/2018/03/jfxlogopad1.png" /> &nbsp;&nbsp;
-<img width="26px" src="https://www.solucionex.com/sites/default/files/posts/imagen/vscode-800x450.png" /> &nbsp;&nbsp;
-<img width="50px" src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200" /> &nbsp;&nbsp;
-<img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" /> &nbsp;&nbsp;
-<img width="50px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" /> &nbsp;&nbsp;
-<img width="50px" src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" /> &nbsp;&nbsp;
+<div align="center">
+<img width="50px" title="IntelliJ" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" /> &nbsp; 
+<img width="50px" title="GitKraken" src="https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png" /> &nbsp;
+<img width="50px" title="Fork" src="https://i.imgur.com/lHqM6qT.png" /> &nbsp;
+<img width="50px" title="Visual Studio Code" src="https://cdn.dribbble.com/users/763495/screenshots/4651910/attachments/1050894/visual-studio.ico" /> &nbsp; 
+<img width="50px" title="Eclipse IDE" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" /> &nbsp; 
+<img width="50px" title="Oracle VM VirtualBox" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" /> &nbsp; 
+<img width="50px" title="MySQL WorkBench 8.0 CE" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" /> &nbsp; 
+<img width="50px" title="Scene Builder" src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" /> &nbsp; 
+<img width="50px" title="Android Studio" src="https://www.netcost-security.fr/wp-content/uploads/2022/02/Android-Studio-fournit-tout-ce-dont-vous-avez-besoin-pour.png" /> &nbsp;
+<img width="50px" title="DB Browser" src="https://avatars.githubusercontent.com/u/7454271?s=280&v=4" /> &nbsp;
+  <br>
+<img width="50px" title="Odoo" src="https://cdn.freebiesupply.com/logos/large/2x/odoo-logo-png-transparent.png" /> &nbsp;
+<img width="50px" title="Office 365" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/800px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" /> &nbsp;
+<img width="50px" title="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" /> &nbsp;
+</div> 
+<br>
 
 ## <h2 align="center"> 📫 Contacto: 
 > - <mireyasancz02@gmail.com>
