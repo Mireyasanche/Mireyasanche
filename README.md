@@ -1,13 +1,17 @@
-<img width="100%"  src="./images/bienvenidos.gif" />
-<h1 align="center"> <p> ¡Hola a todos! ,  soy Mireya. </p> </h1>
+<img width="100%" height=400px src="./images/loading_fin.gif" />
 
-### Soy estudiante de segundo curso de DAM ([Desarrollo de Aplicaciones Multiplataforma][website3]) en el [IES Luis Vives.][website4]
+### <h1 align="center">¡Hola! ,  soy Mireya.</h1>
 
-<h2 align="center"> Conocimientos: </h2>
+### <h2 align="center"> Soy estudiante de segundo curso de DAM 
+##### <h3 align="center">([Desarrollo de Aplicaciones Multiplataforma][website3]) 
+### <h3 align="center"> 📍 [IES Luis Vives][website4]
 
-En mi perfil encontrarás de principio a fin el desarrollo de mis estudios. Tanto mis primeras pruebas personales, como trabajos individuales y en grupo propuestos por mis profesores.
 
-<h2 align="center"> 《  Lenguajes 》</h2>
+#### <h1 align="center"> Conocimientos </h2>
+
+<p align="center"> En mi perfil encontrarás de principio a fin el desarrollo de mis estudios. Tanto mis primeras pruebas personales, como trabajos individuales y en grupo propuestos por mis profesores.
+
+#### <h3 align="center"> ⌦ Lenguajes </h2>
 
 <div align="center">
 <img width="50px" title="Java" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" /> &nbsp; 
@@ -23,7 +27,7 @@ En mi perfil encontrarás de principio a fin el desarrollo de mis estudios. Tant
 
 
 
-<h2 align="center"> 《  Tecnologías 》</h2>
+#### <h3 align="center"> ⌦ Tecnologías </h2>
 
 <div align="center">
 <img width="50px" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" /> &nbsp; 
@@ -49,7 +53,7 @@ En mi perfil encontrarás de principio a fin el desarrollo de mis estudios. Tant
 </div> 
 <br>
 
-<h2 align="center"> 《 Entornos 》</h2>
+####  <h3 align="center"> ⌦ Entornos </h2>
 
 <div align="center">
 <img width="50px" title="IntelliJ" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" /> &nbsp; 
@@ -69,7 +73,7 @@ En mi perfil encontrarás de principio a fin el desarrollo de mis estudios. Tant
 </div> 
 <br>
 
-## <h2 align="center"> 📫 Contacto: 
+## <h2 align="center"> Contacto  
 > - <mireyasancz02@gmail.com>
 >
 > - <mireya.sanchez@alumno.iesluisvives.org>
@@ -77,13 +81,9 @@ En mi perfil encontrarás de principio a fin el desarrollo de mis estudios. Tant
 > - <https://www.linkedin.com/in/mireya-s%C3%A1nchez-pinz%C3%B3n-676b86224/>
 
 
+## <h1 align="center"> <p> ¡Gracias! </p> </h1>
+ <img width="100%" height=350px src="./images/lines.gif" />
+
 <!-- Enlaces -->
-[website1]:https://www.uc3m.es/grado/telematica
-[website2]:https://www.uc3m.es/inicio
 [website3]:https://www.iesluisvives.es/default.aspx?tabid=43636&rowid=1687109,87592
 [website4]: http://iesluisvives.es/
-
-  
-  
- <h1 align="center"> <p> 👋🏻  ¡Hasta pronto! 👋🏻 </p> </h1>
- <img width="100%"  src="./images/hastaPronto.gif" />
