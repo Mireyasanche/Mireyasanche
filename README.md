@@ -1,4 +1,4 @@
-<img width="100%" height=400px src="./images/loading_fin.gif" />
+<img width="100%" height=500px src="./images/loading_fin.gif" />
 
 ### <h1 align="center">¡Hola! ,  soy Mireya.</h1>
 
@@ -82,7 +82,7 @@
 
 
 ## <h1 align="center"> <p> ¡Gracias! </p> </h1>
- <img width="100%" height=350px src="./images/lines.gif" />
+ <img width="100%" src="./images/lines.gif" />
 
 <!-- Enlaces -->
 [website3]:https://www.iesluisvives.es/default.aspx?tabid=43636&rowid=1687109,87592
