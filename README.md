@@ -7,9 +7,25 @@
 
 En mi perfil encontrarás de principio a fin el desarrollo de mis estudios. Tanto mis primeras pruebas personales, como trabajos individuales y en grupo propuestos por mis profesores.
 
+<h2 align="center"> 《  Lenguajes 》</h2>
+
+<div align="center">
+<img width="50px" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/> &nbsp; 
+<img width="50px" title="Java" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" /> &nbsp; 
+<img width="50px" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp; 
+<img width="50px" title="HTML" src="https://i.imgur.com/4Pfb5Jn.png" /> &nbsp; 
+<img width="50px" title="CSS" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" /> &nbsp; 
+<img width="50px" title="Kotlin" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" /> &nbsp; 
+<img width="50px" title="SQL" src="https://www.bimind.es/files/img/azure/main-qimg-7ab87d49737b0b12fbdc806effac21b3.png" /> &nbsp; 
+<img width="50px" title="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png" /> &nbsp; 
+<img width="50px" title="XML/FXML" src="https://cdn-icons-png.flaticon.com/512/1081/1081840.png" /> &nbsp; 
+<img width="50px" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" /> &nbsp; 
+</div>
+<br>
 
 
-<h2 align="center"> 《  Tecnologías & Librerías 》</h2>
+
+<h2 align="center"> 《  Tecnologías 》</h2>
 
 <div align="center">
 <img width="50px" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" /> &nbsp; 
@@ -35,7 +51,7 @@ En mi perfil encontrarás de principio a fin el desarrollo de mis estudios. Tant
 </div> 
 <br>
 
-<h2 align="center"> 《  Manejo de Entornos 》</h2>
+<h2 align="center"> 《 Entornos 》</h2>
 
 <div align="center">
 <img width="50px" title="IntelliJ" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" /> &nbsp; 
