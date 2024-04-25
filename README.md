@@ -1,10 +1,9 @@
 <img width="100%" height=500px src="./images/loading_fin.gif" />
 
-### <h1 align="center">¡Hola!, soy Mireya.</h1>
 
+### <h1 align="center">¡Hola!, soy Mireya.</h1>
 <p align="center"> En mi perfil encontrarás el desarrollo de mis estudios. Tanto pruebas personales como proyectos propuestos por profesores.
   
-<hr>
   
 #### <h3 align="center"> Lenguajes </h3>
 <div align="center">
@@ -19,6 +18,7 @@
   <img width="50px" title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/480px-Typescript_logo_2020.svg.png"/> &nbsp; 
 </div>
 <br>
+
 
 #### <h3 align="center"> Tecnologías </h3>
 
