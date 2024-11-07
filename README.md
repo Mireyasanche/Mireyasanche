@@ -2,7 +2,8 @@
 
 
 ### <h1 align="center">¡Hola!, soy Mireya.</h1>
-<p align="center"> En mi perfil encontrarás el desarrollo de mis estudios. Tanto pruebas personales como proyectos propuestos por profesores.
+<p align="center"> En mi perfil encontrarás las diferentes pruebas que he ido realizando a lo largo de mis estudios y carrera profesional. </p>
+<p align="center"> A continuación dejo algunos de los lenguajes, tecnologías y entornos con los que he trabajado en algún momento de mi desarrollo profesional. </p>
   
   
 #### <h3 align="center"> Lenguajes </h3>
